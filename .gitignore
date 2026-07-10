@@ -1,0 +1,8 @@
+.DS_Store
+/node_modules/
+
+# React Router
+/.react-router/
+/build/
+
+C:\Users\Darshan\OneDrive\Desktop\Mini Project Final\ai-resume-analyzer-main\Dockerfile
